@@ -1,7 +1,7 @@
 <?xml-stylesheet type="text/css" href="5.css"?>
 <STUDENTDATA>
        <STUDENT>
-	             <USN>USN   : 4MT17IS052</USN>
+	             		 <USN>USN : 4MT17IS052</USN>
 				 <NAME>NAME : SYED MOHAMMED ANAS </NAME>
 				 <COLLEGE>COLLEGE : MITE </COLLEGE>
 				 <BRANCH>BRANCH : ISE</BRANCH>
@@ -9,7 +9,7 @@
 				 <EMAIL>E-MAIL :sayedmohammedanas@gmail.com</EMAIL>
 	    </STUDENT>
 		<STUDENT>
-		         <USN>USN : 4MT17IS016 </USN>
+		         	 <USN>USN : 4MT17IS016 </USN>
 				 <NAME>NAME : FIRAZ FAISAL ABDULLA </NAME>
 				 <COLLEGE>COLLEGE : MITE </COLLEGE>
 				 <BRANCH>BRANCH : ISE</BRANCH>
@@ -17,7 +17,7 @@
 				 <EMAIL>E-MAIL :firazm10@gmail.com</EMAIL>
 		</STUDENT>
 		<STUDENT>
-		         <USN>USN : 4MT17IS001 </USN>
+		         	 <USN>USN : 4MT17IS001 </USN>
 				 <NAME>NAME : ABDUL AFFOU </NAME>
 				 <COLLEGE>COLLEGE : MITE </COLLEGE>
 				 <BRANCH>BRANCH : ISE</BRANCH>
